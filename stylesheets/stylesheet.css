@@ -37,7 +37,6 @@ main h1 {
 
 aside {
   float:right;
-  clear:left;
   padding: 1rem;
   align-content: center;
   text-align: center;
