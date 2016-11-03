@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color:aliceblue;
+}
+
+h2 {
+  color:grey;
+}
+
+li {
+  font-size: 125%;
+  display: inline-block;
+  padding: 1rem;
+  background-color: grey;
+}
+
+main {
+  background-color: white;
+  padding:2rem;
+}
+
+main h1 {
+  color:black;
+}
+
+aside {
+  float:right;
+  align-content: center;
+  text-align: center;
+  border-color:black;
+  border-width: thick;
+}
